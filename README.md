@@ -1,1 +1,1 @@
-# odoo-evato
+# Evato
