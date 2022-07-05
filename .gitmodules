@@ -1,0 +1,4 @@
+[submodule "evatobv/odoo-addon-sale-followers"]
+	path = evatobv/odoo-addon-sale-followers
+	url = git@github.com:evatobv/odoo-addon-sale-followers.git
+	branch = v15
